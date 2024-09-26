@@ -1,7 +1,14 @@
 # 11.2_tdd_ihk
-Ich benötige ein Python-Skript  zur IHK-Notenberechnung und möchte:
-1. die erreichten Punkte und die gesamt möglichen Punkte eingeben und den erreichten Prozentwert erhalten
-2. den erreichten Prozentwert eingeben und die schriftliche Note (z.B. „sehr gut“) erhalten 
+Ihnen liegt folgende UserStory vor:
+>Ich benötige ein Python-Skript  zur IHK-Notenberechnung und möchte:
+>1. die erreichten Punkte und die gesamt möglichen Punkte eingeben und den erreichten Prozentwert erhalten
+>2. den erreichten Prozentwert eingeben und die schriftliche Note (z.B. „sehr gut“) erhalten
+
+Setzen Sie die Anforderung um, indem Sie: 
+- eine Grenzwertanalyse [in dieser Datei](./Grenzwertanalyse.md) durchführen 
+- nach Test-Driven-Developement (TDD) arbeiten
+- das Arrange-Act-Assert-Muster (AAA) einhalten
+
 ## Tools
 [siehe letzte Aufgabe](https://github.com/gsoTH/11.2-erste-Schritte)
 ## AAA-Muster einhalten
