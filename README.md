@@ -2,7 +2,8 @@
 Ich benötige ein Python-Skript  zur IHK-Notenberechnung und möchte:
 1. die erreichten Punkte und die gesamt möglichen Punkte eingeben und den erreichten Prozentwert erhalten
 2. den erreichten Prozentwert eingeben und die schriftliche Note (z.B. „sehr gut“) erhalten 
-
+## Tools
+[siehe letzte Aufgabe](https://github.com/gsoTH/11.2-erste-Schritte)
 ## AAA-Muster einhalten
 ### Positivtests
 ```python
