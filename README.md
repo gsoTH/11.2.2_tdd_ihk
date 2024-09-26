@@ -1,7 +1,7 @@
 # 11.2_tdd_ihk
 Ihnen liegt folgende UserStory vor:
 >Ich benötige ein Python-Skript  zur IHK-Notenberechnung und möchte:
->1. die erreichten Punkte und die gesamt möglichen Punkte eingeben und den erreichten Prozentwert erhalten
+>1. die erreichten Punkte und die gesamt möglichen Punkte eingeben und den erreichten Prozentwert erhalten. Die gesamt möglichen Punkte können nicht weniger als 6 und nicht mehr als 100 betragen.
 >2. den erreichten Prozentwert eingeben und die schriftliche Note (z.B. „sehr gut“) erhalten
 
 Setzen Sie die Anforderung um, indem Sie: 
